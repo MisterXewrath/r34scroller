@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Sibling-Based Controlled Media Navigation
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      1.0
 // @description  Navigate dynamically loaded posts (videos/images) without skipping when older posts are removed.
-// @author       You
+// @author       MrXewrath
 // @match        *://r34.app/*
 // @grant        none
 // ==/UserScript==
